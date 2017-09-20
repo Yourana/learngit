@@ -1,3 +1,1 @@
-21876fh
-jhghjgd
-ÄãºÃ
+creat a simple featrue1 and master
