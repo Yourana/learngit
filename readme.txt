@@ -1,1 +1,2 @@
-create a simple master and featrue1
+creat a simple featrue1 and master
+
